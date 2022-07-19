@@ -18,7 +18,7 @@ const init = async () => {
     method: 'GET',
     path: '/',
     handler: () => ({
-      name: 'Farhan maulana A',
+      name: 'Farhan maulana Arliansyah',
     }),
   });
 
